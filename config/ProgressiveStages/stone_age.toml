@@ -1,0 +1,40 @@
+# ============================================================================
+# Stage definition for Stone Age (v2.0)
+# This is a STARTING STAGE — no dependency, granted to new players.
+# ============================================================================
+#
+# NEW IN 2.0: UNIFIED PREFIX SYSTEM
+# Every lock list accepts the same prefixes:
+#   "id:minecraft:stone"   (or just "minecraft:stone")   exact match
+#   "mod:mekanism"                                       every entry from a mod
+#   "tag:minecraft:crops"                                every entry in a tag
+#   "name:diamond"                                       case-insensitive substring
+#
+# Every category supports `locked` and `always_unlocked` (whitelist exceptions).
+# ============================================================================
+
+[stage]
+id = "stone_age"
+display_name = "Stone Age"
+description = "Basic survival tools and resources — the beginning of your journey"
+icon = "minecraft:stone_pickaxe"
+unlock_message = "&7&lStone Age Unlocked! &r&8Begin your journey into the unknown."
+
+# Starting stage: no dependency. To require another stage, add:
+#   dependency = "tutorial_complete"
+# or multiple:
+#   dependency = ["tutorial_complete", "spawn_visit"]
+
+[items]
+locked = []
+always_unlocked = []
+
+[blocks]
+locked = []
+always_unlocked = []
+
+[dimensions]
+locked = []
+
+# See diamond_age.toml for a complete 2.0 category reference (crops, loot,
+# enchants, pets, screens, mobs, regions, structures, etc.).

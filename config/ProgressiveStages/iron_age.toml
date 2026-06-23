@@ -1,0 +1,59 @@
+# ============================================================================
+# Stage definition for Iron Age (v2.0)
+# Requires stone_age to be unlocked first.
+# ============================================================================
+
+[stage]
+id = "iron_age"
+display_name = "Iron Age"
+description = "Iron tools, armor, and basic machinery — industrialization begins"
+icon = "minecraft:iron_pickaxe"
+unlock_message = "&6&lIron Age Unlocked! &r&7You can now use iron equipment and basic machines."
+dependency = "stone_age"
+
+[items]
+locked = [
+    "minecraft:iron_ingot",
+    "minecraft:iron_block",
+    "minecraft:iron_ore",
+    "minecraft:deepslate_iron_ore",
+    "minecraft:raw_iron",
+    "minecraft:raw_iron_block",
+    "minecraft:iron_pickaxe",
+    "minecraft:iron_sword",
+    "minecraft:iron_axe",
+    "minecraft:iron_shovel",
+    "minecraft:iron_hoe",
+    "minecraft:iron_helmet",
+    "minecraft:iron_chestplate",
+    "minecraft:iron_leggings",
+    "minecraft:iron_boots",
+    "minecraft:shield",
+    "minecraft:bucket",
+    "minecraft:shears",
+    "minecraft:flint_and_steel",
+    "minecraft:compass",
+    "minecraft:clock",
+    "minecraft:minecart",
+    "minecraft:rail",
+    "minecraft:powered_rail",
+    "minecraft:detector_rail",
+    "minecraft:activator_rail"
+]
+always_unlocked = []
+
+[blocks]
+locked = [
+    "minecraft:iron_block",
+    "minecraft:iron_door",
+    "minecraft:iron_trapdoor",
+    "minecraft:iron_bars",
+    "minecraft:hopper",
+    "minecraft:blast_furnace",
+    "minecraft:smithing_table"
+]
+always_unlocked = []
+
+[recipes]
+locked_ids = []
+locked_items = []

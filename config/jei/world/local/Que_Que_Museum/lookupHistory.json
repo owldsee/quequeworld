@@ -1,0 +1,13 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"supplementaries:key","components":{"minecraft:custom_name":"\"Gran Portal\""}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"supplementaries:lock_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"supplementaries:key"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"supplementaries:confetti_popper"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"supplementaries:rope"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"furniture:pouffe_yellow"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"furniture:explorers_box"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"furniture:sewing_kit"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"furniture:tool_box"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"furniture:coffer"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
