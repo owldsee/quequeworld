@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "quequeworld:ring_template"
+  },
+  "base": {
+    "item": "quequeworld:ring_gold_2"
+  },
+  "addition": {
+    "item": "minecraft:gold_ingot"
+  },
+  "result": {
+    "id": "quequeworld:ring_gold_3"
+  }
+}

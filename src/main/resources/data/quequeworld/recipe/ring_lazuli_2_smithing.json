@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "quequeworld:ring_template"
+  },
+  "base": {
+    "item": "quequeworld:ring_lazuli_1"
+  },
+  "addition": {
+    "item": "minecraft:lapis_lazuli"
+  },
+  "result": {
+    "id": "quequeworld:ring_lazuli_2"
+  }
+}

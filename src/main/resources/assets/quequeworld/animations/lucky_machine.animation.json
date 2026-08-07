@@ -1,0 +1,120 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true
+		},
+		"used": {
+			"animation_length": 1.25,
+			"bones": {
+				"rosca": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.25": {
+							"vector": [0, 0, 360]
+						}
+					}
+				},
+				"Ball4": {
+					"position": {
+						"0.4167": {
+							"vector": [0, 0, 0]
+						},
+						"0.5": {
+							"vector": [0, -2, 0]
+						},
+						"0.6667": {
+							"vector": [0, 0, 0]
+						}
+					}
+				},
+				"Ball7": {
+					"position": {
+						"0.5": {
+							"vector": [0, 0, 0]
+						},
+						"0.5833": {
+							"vector": [0, 2, 0]
+						},
+						"0.75": {
+							"vector": [0, 0, 0]
+						}
+					}
+				},
+				"Ball8": {
+					"position": {
+						"0.5": {
+							"vector": [0, 0, 0]
+						},
+						"0.5833": {
+							"vector": [0, 1, 0]
+						},
+						"0.7083": {
+							"vector": [0, 0, 0]
+						}
+					}
+				},
+				"Ball10": {
+					"position": {
+						"0.5": {
+							"vector": [0, 0, 0]
+						},
+						"0.5833": {
+							"vector": [0, 3, 0]
+						},
+						"0.7917": {
+							"vector": [0, 0, 0]
+						}
+					}
+				},
+				"Balls": {
+					"position": {
+						"0.3333": {
+							"vector": [0, 0, 0]
+						},
+						"0.5": {
+							"vector": [0, 3, 0]
+						},
+						"0.6667": {
+							"vector": [0, 0, 0]
+						}
+					}
+				},
+				"machine": {
+					"scale": {
+						"0.2083": {
+							"pre": {
+								"vector": [1, 1, 1]
+							},
+							"post": {
+								"vector": [1, 1, 1]
+							},
+							"lerp_mode": "catmullrom"
+						},
+						"0.3333": {
+							"vector": [1, 0.9, 1],
+							"easing": "easeOutSine"
+						},
+						"0.4583": {
+							"vector": [0.8, 1.1, 0.8]
+						},
+						"0.5417": {
+							"pre": {
+								"vector": [1, 1, 1]
+							},
+							"post": {
+								"vector": [1, 1, 1]
+							},
+							"lerp_mode": "catmullrom"
+						}
+					}
+				}
+			},
+			"sound_effects": {},
+			"particle_effects": {},
+			"timeline": {}
+		}
+	}
+}

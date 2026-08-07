@@ -1,0 +1,20 @@
+{
+  "music.suspenso_1": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "quequeworld:music/suspenso_1",
+        "stream": true
+      }
+    ]
+  },
+  "music.batalla_1": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "quequeworld:music/batalla_1",
+        "stream": true
+      }
+    ]
+  }
+}

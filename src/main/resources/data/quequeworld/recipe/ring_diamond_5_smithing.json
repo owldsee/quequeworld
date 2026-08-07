@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "quequeworld:ring_template"
+  },
+  "base": {
+    "item": "quequeworld:ring_diamond_4"
+  },
+  "addition": {
+    "item": "minecraft:diamond"
+  },
+  "result": {
+    "id": "quequeworld:ring_diamond_5"
+  }
+}

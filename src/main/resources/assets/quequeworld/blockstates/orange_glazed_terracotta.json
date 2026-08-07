@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "quequeworld:block/orange_glazed_terracotta"
+    },
+    "facing=east": {
+      "model": "quequeworld:block/orange_glazed_terracotta",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "quequeworld:block/orange_glazed_terracotta",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "quequeworld:block/orange_glazed_terracotta",
+      "y": 270
+    }
+  }
+}

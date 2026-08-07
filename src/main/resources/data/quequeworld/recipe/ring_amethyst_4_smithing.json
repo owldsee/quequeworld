@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "quequeworld:ring_template"
+  },
+  "base": {
+    "item": "quequeworld:ring_amethyst_3"
+  },
+  "addition": {
+    "item": "minecraft:amethyst_shard"
+  },
+  "result": {
+    "id": "quequeworld:ring_amethyst_4"
+  }
+}

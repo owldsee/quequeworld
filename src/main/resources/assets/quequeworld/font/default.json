@@ -1,0 +1,40 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "quequeworld:font/amenazado_char.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE100"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "quequeworld:font/escudo_char.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE101"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "quequeworld:font/eliminado_char.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE102"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "quequeworld:font/banderin_char.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\uE103"
+      ]
+    }
+  ]
+}

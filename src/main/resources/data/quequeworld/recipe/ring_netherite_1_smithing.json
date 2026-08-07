@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "quequeworld:ring_template"
+  },
+  "base": {
+    "item": "quequeworld:ring"
+  },
+  "addition": {
+    "item": "minecraft:netherite_ingot"
+  },
+  "result": {
+    "id": "quequeworld:ring_netherite_1"
+  }
+}
